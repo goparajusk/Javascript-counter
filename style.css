@@ -1,0 +1,32 @@
+
+.block{
+    background-color: hsl(180, 94%, 54%);
+    width: 550px;
+    margin: 200px 400px;
+    border: 4px solid black;
+}
+h1{
+    text-align: center;
+}
+#labelId{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+.buttoncontainer{
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.Buttons{
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.Buttons:hover{
+    background-color: rgb(106, 101, 101);
+}
+
+     
+
+   
